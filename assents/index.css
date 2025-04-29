@@ -11,9 +11,21 @@
     text-align: center;
     align-content: center;
 }
+h4{text-align: center;
+font-size: 55;
+background-color: cadetblue;}
+.contenedor2{
+    position: relative;
+    text-align: center;
+    align-content: center;
+}
 
 .texto1{top: 21%;
 position: absolute;
 font-size: medium;
 left: 40%;
 background-color: cadetblue;}
+
+body{
+    background-color: darkcyan
+}

@@ -1,5 +1,6 @@
 .titulo{
-    position: relative;
+    position: absolute;
+    left: 32%;
     text-align: center;
     background-color: cadetblue;
     align-content: center;
@@ -14,9 +15,9 @@
 
 h3{position: absolute;
 text-align: center;
-font-size   : 160;
+font-size : 130%;
 background-color: cadetblue;
-top: 69%;
+top: 94%;
 left: 32%;}
 
 .contenedor2{
@@ -25,11 +26,28 @@ left: 32%;}
     align-content: center;
 }
 
-.texto1{top: 21%;
+.texto1{top: 11%;
 position: absolute;
-font-size: medium;
-left: 40%;
-background-color: cadetblue;}
+font-size: 180%;
+
+left: 64%;
+background-color:red;}
+
+.texto2 {
+    top: 40%;
+    position: absolute;
+    font-size: 130%;
+    left: 15%;
+    background-color:skyblue;
+}
+
+.texto3{top: 60%;
+    position: absolute;
+    font-size: 130%;
+    left: 55%;
+    background-color:skyblue;}
+
+    
 
 body{
     background-color: aliceblue

@@ -61,6 +61,11 @@ background-color:red;}
         font-size: 145%;
     background-color: darkcyan;}
 
+.anuncio{    position: absolute;
+    font-size: 160%;
+    left: 33%;
+    background-color:skyblue;}
+
 body{
     background-color: aliceblue
 }

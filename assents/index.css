@@ -55,6 +55,12 @@ background-color:red;}
     background-color: skyblue;
 }
 
+.tabla {position: absolute;
+        top: 120%;
+        left: 65%;
+        font-size: 145%;
+    background-color: darkcyan;}
+
 body{
     background-color: aliceblue
 }

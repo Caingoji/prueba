@@ -34,20 +34,26 @@ left: 64%;
 background-color:red;}
 
 .texto2 {
-    top: 40%;
+    top: 80%;
     position: absolute;
     font-size: 130%;
-    left: 15%;
+    left: 35%;
     background-color:skyblue;
 }
 
-.texto3{top: 60%;
+.texto3{top: 82%;
     position: absolute;
     font-size: 130%;
-    left: 55%;
+    left: 30%;
     background-color:skyblue;}
 
-    
+.texto4{
+    position: absolute;
+    top: 105%;
+    left: 25%;
+    font-size: 120%;
+    background-color: skyblue;
+}
 
 body{
     background-color: aliceblue

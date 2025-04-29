@@ -61,8 +61,13 @@ background-color:red;}
         font-size: 145%;
     background-color: darkcyan;}
 
-.anuncio{    position: absolute;
+.anuncio{
     font-size: 160%;
+    left: 33%;
+    background-color:skyblue;}
+
+.redes{
+    font-size: 150%;
     left: 33%;
     background-color:skyblue;}
 
